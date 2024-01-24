@@ -1,0 +1,309 @@
+{
+  "shortname": "pycogent",
+  "name": "PyCogent",
+  "_id": "517e8e9f34309d5bc60a3cbd",
+  "url": "https://sourceforge.net/p/pycogent/",
+  "private": false,
+  "short_description": "The PyCogent project is moving to GitHub. When completed, you will find us at http://github.com/pycogent/pycogent/. You can find the PyCogent website at http://www.pycogent.org.",
+  "creation_date": "2007-01-04",
+  "summary": "",
+  "external_homepage": "http://www.pycogent.org",
+  "video_url": "",
+  "socialnetworks": [],
+  "status": "active",
+  "moved_to_url": "",
+  "preferred_support_tool": "",
+  "preferred_support_url": "",
+  "developers": [
+    {
+      "username": "bdell23",
+      "name": "Mike",
+      "url": "https://sourceforge.net/u/bdell23/"
+    },
+    {
+      "username": "eldnahitna",
+      "name": "daniel_mcdonald",
+      "url": "https://sourceforge.net/u/eldnahitna/"
+    },
+    {
+      "username": "dwendel",
+      "name": "Doug Wendel",
+      "url": "https://sourceforge.net/u/dwendel/"
+    },
+    {
+      "username": "kbit",
+      "name": "Kyle Bittinger",
+      "url": "https://sourceforge.net/u/kbit/"
+    },
+    {
+      "username": "hamady",
+      "name": "hamady",
+      "url": "https://sourceforge.net/u/hamady/"
+    },
+    {
+      "username": "jensreeder",
+      "name": "Jens Reeder",
+      "url": "https://sourceforge.net/u/jensreeder/"
+    },
+    {
+      "username": "juliagoodrich",
+      "name": "Julia ",
+      "url": "https://sourceforge.net/u/juliagoodrich/"
+    },
+    {
+      "username": "willvt",
+      "name": "will van treuren",
+      "url": "https://sourceforge.net/u/willvt/"
+    },
+    {
+      "username": "mcieslik",
+      "name": "Marcin Cieslik",
+      "url": "https://sourceforge.net/u/mcieslik/"
+    },
+    {
+      "username": "justin212k",
+      "name": "justin kuczynski",
+      "url": "https://sourceforge.net/u/justin212k/"
+    },
+    {
+      "username": "mwakefield",
+      "name": "MatthewWakefield",
+      "url": "https://sourceforge.net/u/mwakefield/"
+    },
+    {
+      "username": "sandra_smit",
+      "name": "Sandra Smit",
+      "url": "https://sourceforge.net/u/sandra_smit/"
+    },
+    {
+      "username": "twalters0",
+      "name": "William Walters",
+      "url": "https://sourceforge.net/u/twalters0/"
+    },
+    {
+      "username": "danknights",
+      "name": "Dan Knights",
+      "url": "https://sourceforge.net/u/danknights/"
+    },
+    {
+      "username": "jr378",
+      "name": "Jai Ram Rideout",
+      "url": "https://sourceforge.net/u/jr378/"
+    },
+    {
+      "username": "meganap",
+      "name": "Meg Pirrung",
+      "url": "https://sourceforge.net/u/meganap/"
+    },
+    {
+      "username": "zongzhi_liu",
+      "name": "zongzhi liu",
+      "url": "https://sourceforge.net/u/zongzhi_liu/"
+    },
+    {
+      "username": "antgonza",
+      "name": "Antonio",
+      "url": "https://sourceforge.net/u/antgonza/"
+    },
+    {
+      "username": "timmonsd65",
+      "name": "Dan  Timmons",
+      "url": "https://sourceforge.net/u/timmonsd65/"
+    },
+    {
+      "username": "widmannj2",
+      "name": "Jeremy Widmann",
+      "url": "https://sourceforge.net/u/widmannj2/"
+    },
+    {
+      "username": "rob_knight",
+      "name": "Rob Knight",
+      "url": "https://sourceforge.net/u/rob_knight/"
+    },
+    {
+      "username": "lozupone",
+      "name": "lozupone",
+      "url": "https://sourceforge.net/u/lozupone/"
+    },
+    {
+      "username": "gregcaporaso",
+      "name": "Greg C",
+      "url": "https://sourceforge.net/u/gregcaporaso/"
+    },
+    {
+      "username": "s_wikman",
+      "name": "Shandy Wikman",
+      "url": "https://sourceforge.net/u/s_wikman/"
+    },
+    {
+      "username": "huaying",
+      "name": "HuaYing",
+      "url": "https://sourceforge.net/u/huaying/"
+    },
+    {
+      "username": "zaneveld",
+      "name": "Jesse Zaneveld",
+      "url": "https://sourceforge.net/u/zaneveld/"
+    },
+    {
+      "username": "cleme",
+      "name": "Jose Clemente",
+      "url": "https://sourceforge.net/u/cleme/"
+    },
+    {
+      "username": "krother",
+      "name": "Kristian Rother",
+      "url": "https://sourceforge.net/u/krother/"
+    },
+    {
+      "username": "gavin_huttley",
+      "name": "gav",
+      "url": "https://sourceforge.net/u/gavin_huttley/"
+    },
+    {
+      "username": "pm67nz",
+      "name": "Peter Maxwell",
+      "url": "https://sourceforge.net/u/pm67nz/"
+    },
+    {
+      "username": "jistombaugh",
+      "name": "Jesse Stombaugh",
+      "url": "https://sourceforge.net/u/jistombaugh/"
+    },
+    {
+      "username": "widmannj",
+      "name": "Jeremy Widmann",
+      "url": "https://sourceforge.net/u/widmannj/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "support",
+      "mount_point": "support",
+      "url": "https://sourceforge.net/p/pycogent/support/",
+      "mount_label": "Support"
+    },
+    {
+      "name": "reviews",
+      "mount_point": "reviews",
+      "url": "https://sourceforge.net/p/pycogent/reviews/",
+      "mount_label": "Reviews"
+    },
+    {
+      "name": "discussion",
+      "mount_point": "discussion",
+      "url": "https://sourceforge.net/p/pycogent/discussion/",
+      "mount_label": "Discussion",
+      "api_url": "https://sourceforge.net/rest/p/pycogent/discussion/"
+    },
+    {
+      "name": "summary",
+      "mount_point": "summary",
+      "url": "https://sourceforge.net/p/pycogent/summary/",
+      "mount_label": "Summary",
+      "sourceforge_group_id": 186234
+    },
+    {
+      "name": "files-sf",
+      "mount_point": "files",
+      "url": "https://sourceforge.net/p/pycogent/files/",
+      "mount_label": "Files"
+    },
+    {
+      "name": "blog",
+      "mount_point": "news",
+      "url": "https://sourceforge.net/p/pycogent/news/",
+      "mount_label": "News",
+      "api_url": "https://sourceforge.net/rest/p/pycogent/news/"
+    },
+    {
+      "name": "link",
+      "mount_point": "svnexternalurl",
+      "url": "https://sourceforge.net/p/pycogent/svnexternalurl/",
+      "mount_label": "Browse SVN",
+      "api_url": "https://sourceforge.net/rest/p/pycogent/svnexternalurl/"
+    },
+    {
+      "name": "activity",
+      "mount_point": "activity",
+      "url": "https://sourceforge.net/p/pycogent/activity/",
+      "mount_label": "Activity",
+      "api_url": "https://sourceforge.net/rest/p/pycogent/activity/"
+    },
+    {
+      "name": "mailman",
+      "mount_point": "mailman",
+      "url": "https://sourceforge.net/p/pycogent/mailman/",
+      "mount_label": "Mailing Lists"
+    }
+  ],
+  "labels": [],
+  "categories": {
+    "audience": [
+      {
+        "id": 367,
+        "shortname": "science-research",
+        "fullname": "Science/Research",
+        "fullpath": "Intended Audience :: by Industry or Sector :: Science/Research"
+      }
+    ],
+    "developmentstatus": [
+      {
+        "id": 11,
+        "shortname": "5-production-stable",
+        "fullname": "5 - Production/Stable",
+        "fullpath": "Development Status :: 5 - Production/Stable"
+      },
+      {
+        "id": 10,
+        "shortname": "4-beta",
+        "fullname": "4 - Beta",
+        "fullpath": "Development Status :: 4 - Beta"
+      }
+    ],
+    "environment": [],
+    "language": [
+      {
+        "id": 178,
+        "shortname": "python",
+        "fullname": "Python",
+        "fullpath": "Programming Language :: Python"
+      }
+    ],
+    "license": [
+      {
+        "id": 15,
+        "shortname": "gnu-general-public-license-version-2.0-gplv2",
+        "fullname": "GNU General Public License version 2.0 (GPLv2)",
+        "fullpath": "License :: OSI-Approved Open Source :: GNU General Public License version 2.0 (GPLv2)"
+      }
+    ],
+    "translation": [
+      {
+        "id": 275,
+        "shortname": "english",
+        "fullname": "English",
+        "fullpath": "Translations :: English"
+      }
+    ],
+    "os": [
+      {
+        "id": 235,
+        "shortname": "os-independent",
+        "fullname": "OS Independent",
+        "fullpath": "Operating System :: OS Independent"
+      }
+    ],
+    "database": [],
+    "topic": [
+      {
+        "id": 252,
+        "shortname": "bio-informatics",
+        "fullname": "Bio-Informatics",
+        "fullpath": "Topic :: Scientific/Engineering :: Bio-Informatics"
+      }
+    ]
+  },
+  "icon_url": null,
+  "screenshots": []
+}
